@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UtkuSerhun
-- 👀 I’m interested in coding, data privacy and translations (human lang).
+- 👀 I’m interested in coding, data privacy and translation (human lang).
 - 🌱 I’m currently learning Html and Css
 - 💞️ I’m looking to collaborate on anything a beginner can. Thanks.
 - 📫 Please inbox me - utkuserhunacar@gmail.com
